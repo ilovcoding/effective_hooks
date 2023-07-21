@@ -1,7 +1,12 @@
 {
   "name": "effective_hooks",
-  "version": "0.0.1-beta.0",
-  "description": "Headless web hooks",
+  "version": "0.0.1-beta.1",
+  "description": "Effective headless web hooks",
+  "homepage": "https://github.com/ilovcoding/effective_hooks#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilovcoding/effective_hooks"
+  },
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -19,4 +19,4 @@ features:
     description: Put ! description here
 ---
 
-ihook
+effective_hooks
