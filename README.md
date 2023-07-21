@@ -3,7 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/effective_hooks.svg?style=flat)](https://npmjs.org/package/effective_hooks)
 [![NPM downloads](http://img.shields.io/npm/dm/effective_hooks.svg?style=flat)](https://npmjs.org/package/effective_hooks)
 
-Headless web hooks
+Effective headless web hooks
 
 ## Usage
 

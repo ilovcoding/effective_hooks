@@ -1,7 +1,7 @@
 ---
 hero:
   title: library
-  description: Headless web hooks
+  description: Effective headless web hooks
   actions:
     - text: Hello
       link: /
