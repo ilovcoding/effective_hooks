@@ -3,10 +3,10 @@ hero:
   title: library
   description: Effective headless web hooks
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 开始
+      link: /guide
+    - text: Hooks
+      link: /hooks
 features:
   - title: Hello
     emoji: 💎
